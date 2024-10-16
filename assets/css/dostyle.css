@@ -1,0 +1,27 @@
+.cars{
+    background-color: green;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.fruits{
+    background-color: darkslategray;
+    border: 2px solid black;
+    color: white;
+    text-align: center;
+    margin: 20px;
+}
+.fruits:hover{
+    background-color: blue;
+}
+#perlclass{
+    color: beige;
+    background-color: darkslategray;
+    text-align: center;
+    border: 2px solid black;
+    margin: 30px;
+}
+#perlclass:hover{
+    background-color: cadetblue;
+}

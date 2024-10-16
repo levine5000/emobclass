@@ -1,0 +1,13 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th, td{
+    border: 2px solid darkcyan;
+}
+th{
+    text-align: center;
+    font-family: "DejaVu Sans Mono";
+    color: blue;
+}

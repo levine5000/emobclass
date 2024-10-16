@@ -1,0 +1,19 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: beige;
+    text-align: center;
+    padding: 20px;
+
+}
+hi{
+    color: darkslategray;
+}
+button{
+    background-color: darkslateblue;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+
+
+}

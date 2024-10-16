@@ -1,0 +1,40 @@
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: #3fb53f;
+    padding-left: 50px;
+    margin: 0;
+}
+li{
+    float: left;
+}
+li a{
+    display:inline-block ;
+    padding:13px ;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+
+}
+li a:hover{
+    background-color: black;
+}
+.no-button{
+    list-style-type: none;
+    overflow: hidden;
+}
+li button{
+    display:inline-block ;
+    padding:10px ;
+    text-decoration: none;
+    color: green;
+    border: 1px solid  #3fb53f;
+    text-align: center;
+    border-radius: 70px;
+    font-size: 12px;
+}
+.picture img{
+    width: 50%%;
+    height: 350px;
+    position: ;
+}
